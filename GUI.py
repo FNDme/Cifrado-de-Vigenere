@@ -3,7 +3,7 @@ from Vigenere import encrypt, decrypt
 
 base = Tk()
 
-base.title('Vernam Cipher')
+base.title('Vigenere Cipher')
 base.resizable(False, False)
 base.geometry('500x400')
 base.configure(background='#232426')
