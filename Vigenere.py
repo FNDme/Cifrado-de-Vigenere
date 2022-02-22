@@ -1,6 +1,5 @@
 from array import array
 
-
 def encrypt(txt, key):
     txt = txt.upper()
     key = key.upper()
